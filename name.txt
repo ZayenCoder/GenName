@@ -1,4 +1,3 @@
-Miguel,Khan
 Sophia,Ahmed
 Liam,Hasan
 Emma,Ali
